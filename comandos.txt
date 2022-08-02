@@ -1,0 +1,15 @@
+workspace
+local repository
+remote repository
+
+git init -> inicializar um repositório git
+
+git config --global core.editor code -> mudar de vim para code o padrão
+
+git config --list -> listar opções de configuração definidas
+
+git config --system --edit -> abrir arquivo de configuração global para edição
+
+git config --local --edit -> abrir arquivo de configuração local para edição
+
+
